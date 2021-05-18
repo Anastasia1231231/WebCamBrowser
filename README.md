@@ -1,4 +1,4 @@
-gstreamer-webcam_to_browser
+Gstreamer-Webcam_to_Browser
 ===========================
 
 Realtime webcam stream to a browser window using Python, Tornado, WebSockets, and Gstreamer
